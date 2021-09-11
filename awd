@@ -1,0 +1,35 @@
+2021-09-11T18:58:31.9356764Z Current runner version: '2.281.1'
+2021-09-11T18:58:31.9382896Z ##[group]Operating System
+2021-09-11T18:58:31.9383860Z Ubuntu
+2021-09-11T18:58:31.9384273Z 20.04.3
+2021-09-11T18:58:31.9384749Z LTS
+2021-09-11T18:58:31.9385241Z ##[endgroup]
+2021-09-11T18:58:31.9385754Z ##[group]Virtual Environment
+2021-09-11T18:58:31.9386399Z Environment: ubuntu-20.04
+2021-09-11T18:58:31.9386907Z Version: 20210906.1
+2021-09-11T18:58:31.9387912Z Included Software: https://github.com/actions/virtual-environments/blob/ubuntu20/20210906.1/images/linux/Ubuntu2004-README.md
+2021-09-11T18:58:31.9389230Z Image Release: https://github.com/actions/virtual-environments/releases/tag/ubuntu20%2F20210906.1
+2021-09-11T18:58:31.9390052Z ##[endgroup]
+2021-09-11T18:58:31.9390669Z ##[group]Virtual Environment Provisioner
+2021-09-11T18:58:31.9391269Z 1.0.0.0-master-20210816-1
+2021-09-11T18:58:31.9391826Z ##[endgroup]
+2021-09-11T18:58:31.9393641Z ##[group]GITHUB_TOKEN Permissions
+2021-09-11T18:58:31.9394777Z Actions: write
+2021-09-11T18:58:31.9395461Z Checks: write
+2021-09-11T18:58:31.9395981Z Contents: write
+2021-09-11T18:58:31.9396490Z Deployments: write
+2021-09-11T18:58:31.9397048Z Discussions: write
+2021-09-11T18:58:31.9397523Z Issues: write
+2021-09-11T18:58:31.9398041Z Metadata: read
+2021-09-11T18:58:31.9398523Z Packages: write
+2021-09-11T18:58:31.9399105Z PullRequests: write
+2021-09-11T18:58:31.9399693Z RepositoryProjects: write
+2021-09-11T18:58:31.9400334Z SecurityEvents: write
+2021-09-11T18:58:31.9400911Z Statuses: write
+2021-09-11T18:58:31.9401465Z ##[endgroup]
+2021-09-11T18:58:31.9404379Z Prepare workflow directory
+2021-09-11T18:58:31.9972954Z Prepare all required actions
+2021-09-11T18:58:31.9982481Z Getting action download info
+2021-09-11T18:58:32.1802323Z Download action repository 'actions/checkout@v2' (SHA:5a4ac9002d0be2fb38bd78e4b4dbde5606d7042f)
+2021-09-11T18:58:32.8885619Z ##[error]A task was canceled.
+
